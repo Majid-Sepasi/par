@@ -20,7 +20,7 @@
                         },
                         {
                             "type": "three-month",
-                            "trafic": 100 GB",
+                            "trafic": "100 GB",
                             "userNo": "two-user",
                             "price": "160,000 IRT"
                         },
