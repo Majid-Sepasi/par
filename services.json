@@ -1,0 +1,41 @@
+{
+	"services": [
+                        {
+			    "type": "one-month",
+                            "trafic": "20 GB",
+                            "userNo": "two-user",
+                            "price": "40,000 IRT"
+                        },
+                        {
+			    "type": "one-month",
+                            "trafic": "30 GB",
+                            "userNo": "two-user",
+                            "price": "55,000 IRT"
+                        },
+                        {
+                            "type": "one-month",
+                            "trafic": "40 GB",
+                            "userNo": "two-user",
+                            "price": "70,000 IRT"
+                        },
+                        {
+                            "type": "three-month",
+                            "trafic": 100 GB",
+                            "userNo": "two-user",
+                            "price": "160,000 IRT"
+                        },
+                        {
+                            "type": "three-month",
+                            "trafic": "150 GB",
+                            "userNo": "two-user",
+                            "price": "230,000 IRT"
+                        },
+                        {
+                            "type": "three-month",
+                            "trafic": "200 GB",
+                            "userNo": "two-user",
+                            "price": "290,000 IRT"
+                        }
+
+                    ]
+}
