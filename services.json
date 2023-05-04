@@ -35,6 +35,12 @@
                             "trafic": "200 GB",
                             "userNo": "two-user",
                             "price": "290,000 IRT"
+                        },
+                        {
+                            "type": "three-month",
+                            "trafic": "300 GB",
+                            "userNo": "two-user",
+                            "price": "400,000 IRT"
                         }
 
                     ]
